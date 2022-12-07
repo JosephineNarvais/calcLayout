@@ -1,8 +1,8 @@
 # calcLayout
-Calculator layout 
+Calculator Layout 
 
 
-Description: The Calculator layout is using CSS as one of Generations self-pace project. It is incompelete but it is a project that you can build on using JavaScript.
+Description: The Calculator layout is Generation's self-pace homework. It is incompelete but it is a project that you can build on using JavaScript.
 
 Role: I replicated the calculator layout using HTML and CSS.
 
