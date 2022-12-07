@@ -4,7 +4,7 @@ Calculator Layout
 
 Description: The Calculator layout is Generation's self-pace homework. It is incompelete but it is a project that you can build on using JavaScript.
 
-Role: I replicated the calculator layout using HTML and CSS.
+Role: I replicated the calculator layout using HTML and CSS by using code.
 
 Technologies: HTML and CSS
 
