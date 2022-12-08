@@ -13,7 +13,7 @@ The Calculator layout is Generation's beginning start off, self-pace homework. I
 * HTML 
 * CSS
 
-#Author
+# Author
 * Josephine Narvais
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
