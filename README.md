@@ -1,11 +1,13 @@
 # Calculator Layout
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------# Table of Contents
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Table of Contents
 * Description
 * Technology Used
 * Author
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Description
-The Calculator layout is Generation's self-pace homework. It is incompelete but it is a project that you can build on using JavaScript.
+The Calculator layout is Generation's beginning start off, self-pace homework. It is incompelete but it is a project that you can build on using JavaScript.
 
 Technology Used
 * HTML 
